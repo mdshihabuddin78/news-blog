@@ -1,0 +1,97 @@
+body{background:url(img/bg.jpg) fixed;}
+.page{background:#fff;margin-top:30px;box-shadow: 0px 0px 35px #1CEADB;margin-bottom:50px}
+.logo{}
+.logo img{margin:22px 0px;}
+.menu{margin: 40px 0px;}
+.menu ul{margin:0px;padding:0px;list-style:none;}
+.menu ul li{float:left;}
+.menu ul li a{color: #cc0000;display: block;padding: 0px 10px;border-right: 1px solid #333;font-size: 13px;}
+.menu ul li a:hover{}
+.social_menu{margin-top:15px;}
+.social_menu ul{margin:0px;padding:0px;list-style:none;}
+.social_menu ul li{float:left;}
+.social_menu ul li a{}
+.social_menu ul li a img{width: 30px;height: 27px;margin-right: 12px;}
+.search{margin:7px 0px}
+.search input[type='text']{width: 80%;border: 1px solid #cc0000;padding-left: 10px;color: #333;}
+.search input[type='submit']{margin-left: -6px !important;}
+.main_menu{background: #151718;min-height:45px;margin:10px 0px;}
+.main_menu ul{margin:0px;padding:0px;list-style:none;}
+.main_menu ul li{float:left;}
+.main_menu ul li a{display:block;text-decoration:none;color:#fff;font-size: 18px;text-transform: uppercase;
+padding: 11px 12px;font-family: 'ufonts_com_agencyfb';}
+.slider{position:relative;margin-bottom:15px;}
+.overlay{position: absolute;z-index: 9;bottom:5px;left: 15px;}
+.overlay h2{background: #C00 none repeat scroll 0% 0%;color: #FFF;padding: 7px 25px;font-size: 20px;}
+.slider_right{background:#e4e4e4;margin-left:55px;}
+.slider_right ul{margin:0px;padding:0px;list-style:none;}
+.slider_right ul li{padding:12px 0px}
+.slider_right ul li img{float:left;margin-left:25px;margin-top:10px;}
+.slider_right ul li p{margin-left: 111px;color: #000;font-weight: bold;padding: 3px;}
+.slider_right a{background: #cc0000;color: #fff;font-weight: bold;display: inline-block;padding: 4px 20px;
+margin-bottom: 10px;margin-left: 216px;}
+.body_news{}
+.body_news_headline{border-bottom: 3px solid #cc0000;min-height: 50px;}
+.body_news_headline h2{font-size:20px;font-weight:bold;color:#000;
+-webkit-animation-iteration-count:5;
+-moz-animation-iteration-count:infinite; 
+}
+.body_news_headline a{background: #C00 none repeat scroll 0% 0%;color: #FFF;padding: 4px 16px;text-decoration: none;
+margin-left: 73px;margin-top: 19px;display: inline-block;}
+.single_news{margin-top: 15px;}
+.single_news img{width:100%;margin-bottom: 10px;}
+.single_news p{}
+.single_news a{color: #cc0000;font-size: 12px;text-decoration: none;}
+.gellery{margin: 13px 0px;}
+.gellery img{width: 31%;margin-right: 9px;margin-bottom: 11px;}
+.single_tech{padding:2px 0px}
+.single_tech h2{font-size: 18px;color: #000;margin-top: 5px 0px;}
+.single_tech p{color: #202021;font-size: 14px;margin-bottom: 2px;}
+.single_tech b{font-weight: normal;font-size: 12px;}
+.single_tech b span{color:#cc0000}
+.desk{}
+.desk h2{font-size: 20px;font-weight: bold;border-bottom: 3px solid #cc0000;padding: 2px 0px;}
+.desk ul{margin:0px;padding:0px;list-style:none;}
+.desk ul li{border-bottom: 2px dotted #000;padding-bottom: 21px;}
+.desk ul li p{margin-top:18px;}
+.desk ul li a{text-decoration:none;color:#cc0000;}
+.desk ul li span{margin-left: 30px;font-size: 12px;}
+.editorail{}
+.editorail h2{font-size: 20px;font-weight: bold;border-bottom: 3px solid #cc0000;padding: 2px 0px;}
+.single_editorial{}
+.single_editorial img{width:100%}
+.single_editorial p{ccolor: #C00;margin-top: 6px;margin-bottom: 10px;}
+.more{}
+.more a{text-decoration: none;background: #cc0000;color: #fff;font-size: 13px;padding: 3px 15px;}
+.login{background:#e4e4e4;margin-bottom:12px;}
+.login h2{color: #202021;font-weight: bold;font-size: 16px;text-transform: uppercase;
+text-align: center;padding-top: 20px !important;}
+.login p{color: #000;font-size: 11px;text-align: center;margin-top: -8px;}
+.login form{width: 184px;margin: 0px auto;}
+.login form input[type='text']{width: 100%;color: #000;padding-left: 10px;border: 1px solid #f4f4f4;
+margin-bottom: 7px;}
+.login form input[type='email']{width: 100%;color: #000;padding-left: 10px;border: 1px solid #f4f4f4;
+margin-bottom: 7px;}
+.login form input[type='submit']{background: #cc0000;border: none;color: #fff;margin-bottom: 10px;}
+.login span{color: #cc0000;font-size: 12px;margin-left: 25px;padding-bottom: 15px;display: block;}
+.banner{border-top: 1px dotted #202021;
+border-bottom: 1px dotted #202021;
+padding: 26px 0px;}
+.banner img{}
+.footer_menu{padding:22px 0px}
+.footer_menu ul{list-style:none;text-align:center;}
+.footer_menu ul li{display:inline;border-right:1px solid #000}
+.footer_menu ul li a{display:inline-block;text-decoration:none;color:#000;font-size:13px;padding: 0px 17px;}
+.footer{margin-bottom: 50px;}
+.footer p{color:#000;font-size:14px}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
